@@ -1,6 +1,6 @@
 # contador_restaurante
 
-A new Flutter project.
+activity in Flutter for UFRN
 
 ## Getting Started
 
